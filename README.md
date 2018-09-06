@@ -19,7 +19,7 @@ These scripts are used to implement [DiploSH/IC](http://www.g3journal.org/conten
 
 ## Genetic Map
 
-![alt text](https://github.com/KSFreeman/popgen-ml/genetic_map.png)
+![figure2](./genetic_map.png)
 
 
 ## Format of feature vectors
