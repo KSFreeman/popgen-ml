@@ -29,7 +29,9 @@ The feature vectores have 99 columns and either 60 or 120 rows. Explanation:
 `9 (number of stats) x 11 (number of windows) = 99 columns` 
 
 `60 (number of sims) x 1 (number of chromosomes per sim that fall into each category) = 60 rows`
+
 or 
+
 `60 x 2 = 120 rows for neutral, QTL, background selection`
 
 
